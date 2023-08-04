@@ -1,0 +1,134 @@
+header {
+  background-color: aquamarine;
+  width:100%;
+  /* height: 4rem; */
+  padding:2rem;
+  font-size:2rem;
+  font-weight: bold;
+}
+
+main h1 {
+  font-weight: bold;
+  font-size:1.5rem;
+  padding-top:2rem;
+  padding-left:20px;
+}
+main section {
+  border: dotted;
+  margin:0px 20px;
+  width:93vw;
+  padding:1em;
+
+}
+
+main .top div {
+  margin:.5rem;
+}
+
+#purple {
+height:5rem;
+width:10rem;
+background: rgb(79, 5, 118);
+border:red solid 3px;
+display: inline-block;
+}
+#blue {
+height:5rem;
+width:5rem;
+background: blue;
+border:black 10px;
+display: inline-block;
+box-shadow: 5px 5px 5px 0px black;
+}
+#pink {
+height:10rem;
+width:10rem;
+background: rosybrown;
+border:black solid 2px;
+display: inline-block;
+}
+.middle div{
+  border-radius: 50%;
+  border:black solid 2px;
+
+}
+#top {
+  height:8rem;
+  width:8rem;
+  margin-left:2rem;
+}
+#middle {
+  height:10rem;
+  width:10rem;
+  margin-left:1rem;
+
+}
+#bottom {
+  height:12rem;
+  width:12rem;
+
+}
+
+.eye, .button {
+  height:30px;
+  width:30px;
+}
+.eye {
+  display:inline-block;
+  position: relative;
+  left:30px;
+  top:30px;
+}
+#carrot {
+  height:30px;
+  width:30px;
+  display:block;
+  position: relative;
+  left:40px;
+  top:40px;
+}
+.button {
+  position: relative;
+  left:45px;
+  margin:1.2rem;
+  display:block
+}
+#tan {
+  height: 300px;
+  width:300px;
+  background: rgb(245, 229, 207);
+  border:2px solid
+}
+#green {
+  height: 250px;
+  width:250px;
+  background: green;
+  border-radius: 50%;
+}
+#brown {
+  position:relative;
+  height: 150px;
+  width:150px;
+  top:50px;
+  left:50px;
+  background:brown;
+}
+#brown p {
+  text-align: center;
+  color:white;
+}
+
+#fish {
+  top:0;
+  padding:0;
+  left:0;
+}
+
+#fish img{
+  height:120px;
+  width:120px;
+  border-radius: 50%;
+}
+
+
+
