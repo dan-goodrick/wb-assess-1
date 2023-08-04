@@ -112,6 +112,7 @@ display: inline-block;
   top:50px;
   left:50px;
   background:brown;
+  box-sizing: border-box;
 }
 #brown p {
   text-align: center;
